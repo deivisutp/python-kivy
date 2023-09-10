@@ -1,0 +1,3 @@
+app/secrets/*
+myvenv/*
+app/__pycache__/*
